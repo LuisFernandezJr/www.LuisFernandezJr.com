@@ -77,7 +77,11 @@ nav-menu: true
 		<header class="major">
 			<h2>Header </h2>
 		</header>
-		<p>Last Paragraph</p>
+		<p>Ethical Hacking Certification is my next goal. I have prepped myself with knowledge and working in virtual labs for hands-on experience. Building on the skills to find vulnerabilities or White Hat Hackers interests me. I admire those who are capable of finding exploits in software and hardware. I always enjoy new technology and I know that finding these security holes can benefit others.Additional certs of interest are the Security+ and eventually a CISSP.
+
+Creating software for various platforms and providing creative solutions and/or interfaces for users in a secure way in my intent. By studying Cybersecurity, I am able to educate others on threats and practices. I am also aware of actions in my current position regarding confidentiality, authentication, and integrity. Maintaining user roles and permissions is important for auditing purposes and I continue to enjoy this line of work. Ultimately, my interest in the entertainment of video games leads me to prevent services to fail due to users participating in malicious activities. Maintaining services, development, access control, is important in todays world.  The potential of AI or extensive networking tools to maintain network security and Quality of Service is important going forward. 
+
+My previous work at SOFWERX involved real time threat analysis. With the experience as a Data Science Intern, utilizing Machine Learning to identify anomalous or adversarial actions based on packet data is one of many approaches a Cyber Analyst can take to identify threats. The internship brings me such a unique environment with lots to explore. </p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
