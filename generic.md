@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Skillset
-description: Core Comptencies
+description: Core Competencies
 image: 
 nav-menu: true
 ---
