@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Intro</h2>
+			<h2>Introduction</h2>
 		</header>
-		<p>TBD</p>
+		<p><p>Luis Fernandez Jr, born on August 10th, in New Jersey, is intrigued by user interfaces since his early childhood, and began to show interest in the science of computers around the early age of 6. Over the past years of technological advancements, Luis has become agile, proficient, and inspired by systems design within an organization as well as collaborative with a variety of functioning areas. As business evolved through the technological era, Luis acquired the knowledge to understand organizational management and the operations of a business enterprise. This ePortfolio is simply a collection of Luis’s journey in studying Business Administration.</p></p>
 	</div>
 </section>
 
@@ -28,7 +28,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>P2</h3>
+					<h3></h3>
 				</header>
 				<p>TBD</p>
 				<ul class="actions">
