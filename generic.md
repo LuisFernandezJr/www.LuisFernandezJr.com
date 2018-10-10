@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skillset
+title: Resume & Skills
 description: Core Competencies
 image: 
 nav-menu: true
