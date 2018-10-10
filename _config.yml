@@ -3,7 +3,7 @@ title: Luis Fernandez Jr
 subtitle: Cybersecurity Analyst
 email: jrluisfernandez@gmail.com
 description: Where Cybersecurity, Data Analysis, and Service come together.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: Forest Ridge
