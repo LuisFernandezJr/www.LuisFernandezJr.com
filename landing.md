@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Introduction</h2>
 		</header>
-		<p>Luis Fernandez Jr, born on August 10th, in New Jersey, is intrigued by user interfaces since his early childhood, and began to show interest in the science of computers around the early age of 6. Over the past years of technological advancements, Luis has become agile, proficient, and inspired by systems design within an organization as well as collaborative with a variety of functioning areas. As business evolves through the technological era, Luis continues to acquire knowledge in organizational management operations of a business enterprise, understanding the threats and the ethics in place for cybersecurity and IT operations.</p>
+		<p>Luis Fernandez Jr, born on August 10th, in New Jersey, is intrigued by user interfaces since his early childhood, and began to show interest in the science of computers around the early age of 6. Over the past years of technological advancements, Luis has become agile, proficient, and inspired by systems design within an organization as well as collaborative with a variety of functioning areas. As business evolves through the technological era, Luis continues to acquire knowledge in management of operations, and understanding the threats to provide thorough analysis and support for cybersecurity and IT operations.</p>
 	</div>
 </section>
 
