@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Generic Descr
+title: Skillset
+description: Core Comptencies
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
