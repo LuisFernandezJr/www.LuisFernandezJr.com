@@ -1,3 +1,4 @@
+Test
 ---
 layout: home
 title: Home
