@@ -2,7 +2,7 @@
 layout: post
 title: Skillset
 description: Core Comptencies
-image: assets/images/pic11.jpg
+image: 
 nav-menu: true
 ---
 
