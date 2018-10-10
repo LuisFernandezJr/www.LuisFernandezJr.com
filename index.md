@@ -3,9 +3,9 @@ layout: home
 title: Home
 landing-title: 'Hi, my name is Luis'
 description: null
-image: assets/images/pic01.jpg
+image: null
 author: null
-show_tile: true
+show_tile: false
 ---
 
 
