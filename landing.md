@@ -75,7 +75,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Header </h2>
+			<h2>Looking ahead</h2>
 		</header>
 		<p>Ethical Hacking Certification is my next goal. I have prepped myself with knowledge and working in virtual labs for hands-on experience. Building on the skills to find vulnerabilities or White Hat Hackers interests me. I admire those who are capable of finding exploits in software and hardware. I always enjoy new technology and I know that finding these security holes can benefit others.Additional certs of interest are the Security+ and eventually a CISSP.
 
