@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Luis Fernandez Jr. 
-landing-title: 'Hi, welcome to my site.'
+landing-title: 'Hello, I'm Luis Fernandez Jr.'
 description: 
-image: assets/images/pic08.jpg
+image: null
 author: null
 show_tile: false
 ---
