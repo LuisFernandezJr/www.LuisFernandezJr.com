@@ -2,7 +2,7 @@
 title: Cybersecurity
 subtitle: Information Technology
 email: jrluisfernandez@gmail.com
-description: I am interactive. It's my intent is to find the solutions, and my perserverance comes from connecting the consumers with todays technology. Technology Systems are complex and require understanding. Today's consumers are more connected than ever before, I study, support, and secure their experience. 
+description: I am interactive. It's my intent is to find solutions, and my perserverance comes from connecting the consumers with todays technology. Technology Systems are complex and require understanding. Today's consumers are more connected than ever before, I study, support, and secure their experience. 
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -19,8 +19,8 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:
-github_url: https://www.luisfernandezjr.com
+facebook_url: https://www.facebook.com/reggaeton1991
+github_url: https://github.com/LuisFernandezJr
 instagram_url: https://instagram.com
 linkedin_url: https://www.linkedin.com/in/luisfernandezjr/
 pinterest_url:
