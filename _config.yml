@@ -29,7 +29,7 @@ slack_url:
 twitter_url: 
 
 #plugins
-plugins:
+gems:
   - jekyll-avatar
 
 # build settings
