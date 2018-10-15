@@ -18,7 +18,7 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url:
+500px_url: https://avatars0.githubusercontent.com/u/40038841?s=460&v=4
 facebook_url: https://www.facebook.com/reggaeton1991
 github_url: https://github.com/LuisFernandezJr
 instagram_url: 
