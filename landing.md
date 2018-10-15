@@ -2,7 +2,7 @@
 title: About Me
 layout: landing
 description: 'Learn more about Luis'
-image: assets/images/pic07.jpg
+image: assets/images/pic05.jpg
 nav-menu: true
 ---
 
@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="assets/images/pic05.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
