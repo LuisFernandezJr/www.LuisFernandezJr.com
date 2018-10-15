@@ -2,7 +2,7 @@
 title: About Me
 layout: landing
 description: 'Learn more about Luis'
-image: assets/images/pic05.jpg
+image: assets/images/pic08.jpg
 nav-menu: true
 ---
 
