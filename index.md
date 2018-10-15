@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to my side of the internet - Luis Fernandez Jr.'
+landing-title: 'Welcome to my side of the internet.'
 description: null
 image: null
 author: null
