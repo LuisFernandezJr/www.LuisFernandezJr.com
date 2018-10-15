@@ -1,9 +1,10 @@
 ---
 layout: home
-title: Luis Fernandez Jr. 
-landing-title: 'Hello, I'm Luis Fernandez Jr.'
-description: 
+title: Home
+landing-title: 'Hi, my name is Luis'
+landing-title: 'Luis Fernandez Jr.'
+description: null
 image: null
 author: null
-show_tile: false
----
+ show_tile: false
+ ---
