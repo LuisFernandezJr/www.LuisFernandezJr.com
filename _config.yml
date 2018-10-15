@@ -28,6 +28,10 @@ pinterest_url:
 slack_url:
 twitter_url: 
 
+#plugins
+plugins:
+  - jekyll-avatar
+
 # build settings
 markdown: kramdown
 
