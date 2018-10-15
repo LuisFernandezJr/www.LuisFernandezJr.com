@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Luis Fernandez Jr. 
+title: Home 
 landing-title: 'Hello, I'm Luis Fernandez Jr.'
 description: 
 image: null
