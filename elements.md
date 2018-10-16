@@ -12,6 +12,7 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>Projects</h1>
+			<p> Try the <a href="https://luisfernandezjr.com/unity/index.html">Roll a Ball Mini Game</a> </p>
 		</header>
 
 </div>
