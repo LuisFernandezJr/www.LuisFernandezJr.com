@@ -8,10 +8,10 @@ nav-menu: true
 
 <h1>Education</h1>
   <div class="content">
-    University of South Florida
+    <h2> University of South Florida </h2>
         <p> Master of Science, Cybersecurity concentrated in Cyber Intelligence - August 2018 </p>
         <p> Bachelor of Applied Science in Information Technology - August 2013 </p>
-   Polk State College
+    <h2> Polk State College </h2>
         <p> Bachelor of Applied Science in Supervision and Management concentrated in Business Administration - December 2017 </p>
       </div>
 <h1>Areas of Expertise</h1>
