@@ -18,7 +18,7 @@ nav-menu: true
 <ul>
     <li>Software & Hardware Implementation </li>
     <li>Scripting, Programming, Cryptography </li>
-    <li>Data Analysis, Information, Strategy & Decision Making</li>
+    <li>Data Analysis, Information Security, Strategy & Decision Making</li>
     <li>Security Risk Analysis, Cyber Threats, Cybersecurity Planning and Management</li>
     <li>Systems Administration,  Network Technology and Protocols, Network Defense, Networking Concepts</li>
 </ul>
