@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resume & Skills
+title: Skills
 description: Core Competencies
 image: 
 nav-menu: true
