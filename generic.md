@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Education & Skills
-description: Core Competencies
+description: What I've Learned
 image: 
 nav-menu: true
 ---
 
-<h1>What I've Learned</h1>
+<h1>Education</h1>
   <div class="content">
     <h2>Master of Science, Cybersecurity</h2>
         <p>Concentration in Cyber Intelligence</p>
