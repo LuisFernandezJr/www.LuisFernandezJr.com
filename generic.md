@@ -1,16 +1,13 @@
 ---
 layout: post
-title: Education & Skills
-description: What I've Learned
+title: What I've Learned
+description: 
 image: 
 nav-menu: true
 ---
-
-<h1>Education</h1>
   <div class="content">
-    <h2>Master of Science, Cybersecurity</h2>
-        <p>Concentration in Cyber Intelligence</p>
-        <p>University of South Florida - August 2018<p/>
+    <h2>University of South Florida, Tampa</h2>
+        <h1>Master of Science, Cybersecurity</h1>
       <h2>Bachelor of Applied Science in Supervision and Management</h2>
         <p>Concentration in Business Administration</p>
         <p>Polk State College - December 2017</p>
