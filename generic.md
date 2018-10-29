@@ -6,13 +6,15 @@ image:
 nav-menu: true
 ---
   <div class="content">
-    <h2>University of South Florida, Tampa</h2>
-        <h1>Master of Science, Cybersecurity</h1>
-      <h2>Bachelor of Applied Science in Supervision and Management</h2>
-        <p>Concentration in Business Administration</p>
-        <p>Polk State College - December 2017</p>
+    <h1>University of South Florida, Tampa</h1>
+    <h2>Master of Science, Cybersecurity</h2>
+      <p>Concentration in Cyber Intelligence</p>
+    <h1>Polk State College, Winter Haven</h1>
+    <h2>Bachelor of Applied Science in Supervision and Management</h2>
+      <p>Concentration in Business Administration</p>
+    <h1>University of South Florida, Tampa</h1>
     <h2>Bachelor of Applied Science in Information Technology</h2>
-        <p>University of South Florida - August 2013 </p>
+      <p>University of South Florida - August 2013 </p>
 <h1>Areas of Expertise</h1>
 <ul>
     <li>Software & Hardware Implementation </li>
