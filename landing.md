@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3></h3>
 				</header>
-				<p>TBD</p>
+				<p>Recognition and Awards</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -44,7 +44,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>P3</h3>
+					<h3>Interests & Hobbies</h3>
 				</header>
 				<p>TBD</p>
 				<ul class="actions">
