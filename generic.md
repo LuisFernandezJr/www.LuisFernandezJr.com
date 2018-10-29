@@ -16,7 +16,6 @@ nav-menu: true
         <p>Polk State College - December 2017</p>
     <h2>Bachelor of Applied Science in Information Technology</h2>
         <p>University of South Florida - August 2013 </p>
-      </div>
 <h1>Areas of Expertise</h1>
 <ul>
     <li>Software & Hardware Implementation </li>
