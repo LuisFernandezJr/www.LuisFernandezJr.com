@@ -1,8 +1,8 @@
 ---
 layout: post
 title: What I've Learned
-description: 
-image: Education, Certifications, and Skills
+description: Education, Certifications, and Skills
+image: 
 nav-menu: true
 ---
   <div class="content">
