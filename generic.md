@@ -14,8 +14,7 @@ nav-menu: true
       <p>Concentration in Business Administration</p>
     <h1>University of South Florida, Tampa</h1>
     <h2>Bachelor of Applied Science in Information Technology | August 2013</h2>
-<br>
-  
+<hr>
 <h1>Areas of Expertise</h1>
 <ul>
     <li>Software & Hardware Implementation </li>
