@@ -14,12 +14,10 @@ nav-menu: true
   <p><b>Bachelor of Applied Science in Information Technology</b><br>Tampa, FL - Aug. 2013</p>
 <hr>
   <h1> Certifications and Awards</h1>
-    <h2>Comptia A+<h2>
-       <p>Feb. 2008</p>
-      <h2>Certified Ethical Hacker<h2>
-       <p>Nov. 2018</p>
-        <h2>5 Year Service Award<h2>
-       <p>Polk State College</p>
+  <p><b>Comptia A+</b><br>Feb. 2008</p>
+  <p><b>Certified Ethical Hacker</b><br>Nov. 2018</p>
+  <p><b>5 Year Service Award</b><br>Polk State College</p>
+  
           
 <h1>Skills</h1>
 <ul>
