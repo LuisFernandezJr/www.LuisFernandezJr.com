@@ -33,4 +33,4 @@ nav-menu: true
     <li>Network Technology and Protocols, Network Defense, & Networking Concepts</li>
     <li>Problem Solving, Critical Thinking,& Decision Making</li>
     <li>Leadership, Communication, & Collaboration</li>
-</ul>
+
