@@ -28,7 +28,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3></h3>
+					<h3>Accomplishments</h3>
 				</header>
 				<p>Recognition and Awards</p>
 				<ul class="actions">
@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Interests & Hobbies</h3>
 				</header>
-				<p>TBD</p>
+				<p>I enjoy playing video games in my free time and I am very selective. I play a variety of Genres for fun but you can always find me playing the Super Smash Brothers franchise due to in depth mechanics variety of options. Sun Tzu is more than accurate when saying “If you know the enemy and know yourself, you need not fear the result of a hundred battles." When it's comes to knowing options in your enviroment everything changes. Super Smash Brothers allows me to paint my style of thinking within a video game. Controllers are my canvas and I enjoy depicting my style.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
