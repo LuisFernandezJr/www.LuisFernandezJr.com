@@ -2,7 +2,7 @@
 layout: post
 title: What I've Learned
 description: Education, Certifications, and Skills
-image: 
+image: assets/images/CyberMind.png
 nav-menu: true
 ---
   <div class="content">
