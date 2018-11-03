@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Accomplishments</h3>
 				</header>
-				<p>Recognition and Awards</p>
+				<p>I always enjoy learning how technology works, it's as if I am working with legos and understand how each block serves it purpose and place.  </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
