@@ -31,6 +31,6 @@ nav-menu: true
     <li>System Access Control, Systems Administration, & Compliance
     <li>Security Risk Analysis, Cybersecurity Planning and Management</li>
     <li>Network Technology and Protocols, Network Defense, & Networking Concepts</li>
-    <li>Problem Solving, Critical Thinking,& Decision Making</li>
+    <li>Problem Solving, Critical Thinking, & Decision Making</li>
     <li>Leadership, Communication, & Collaboration</li>
 
