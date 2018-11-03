@@ -32,5 +32,5 @@ nav-menu: true
     <li>Security Risk Analysis, Cybersecurity Planning and Management</li>
     <li>Network Technology and Protocols, Network Defense, Networking Concepts</li>
     <li>Problem Solving, Critical Thinking, Decision Making</li>
-    <li>Leadership, Communication, Collaboration</li>
+    <li>Leadership, Communication, & Collaboration</li>
 </ul>
