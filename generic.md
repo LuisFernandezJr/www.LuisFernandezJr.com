@@ -7,14 +7,11 @@ nav-menu: true
 ---
   <div class="content">
    <h1>University of South Florida</h1>
-    <h2>Master of Science, Cybersecurity</h2>
-      <p>Concentration in Cyber Intelligence <br>Tampa, FL - Aug. 2018</p>
+  <p><b>Master of Science, Cybersecurity </b><br> Concentration in Cyber Intelligence <br>Tampa, FL - Aug. 2018</p>
     <h1>Polk State College</h1>
-    <h2>Bachelor of Applied Science in Supervision and Management</h2>
-      <p>Concentration in Business Administration <br>Winter Haven, FL - Dec. 2018</p>
+  <p><b>Bachelor of Applied Science in Supervision and Management</b><br>Concentration in Business Administration <br>Winter Haven, FL - Dec. 2018</p>
     <h1>University of South Florida</h1>
-    <h2>Bachelor of Applied Science in Information Technology</h2>
-        <p>Tampa, FL - Aug. 2013</p>
+  <p><b>Bachelor of Applied Science in Information Technology</b><br>Tampa, FL - Aug. 2013</p>
 <hr>
   <h1> Certifications and Awards</h1>
     <h2>Comptia A+<h2>
