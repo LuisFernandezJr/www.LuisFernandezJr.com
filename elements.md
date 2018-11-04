@@ -11,12 +11,11 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Projects</h1>
-			<p> Try the <a href="https://luisfernandezjr.com/unity/index.html">Roll a Ball Mini Game</a> </p>
+			
 		</header>
 
-<h2 id="content">Sample Content</h2>
-<p>Sample</p>
+<h2 id="content">Projects</h2>
+<p>Try the <a href="https://luisfernandezjr.com/unity/index.html">Roll a Ball Mini Game</a> </p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sample Content</h3>
