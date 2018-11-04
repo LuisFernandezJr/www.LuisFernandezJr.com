@@ -16,6 +16,30 @@ nav-menu: true
 		</header>
 
 </div>
-</section>
+<h2 id="content">Sample Content</h2>
+<p>Sample</p>
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h3>Sample Content</h3>
+		<p>Sample Content</p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Sample Content</h3>
+		<p>Sample Content</p>
+	</div>
+	<!-- Break -->
+	<div class="4u 12u$(medium)">
+		<h3>Sample Content</h3>
+		<p>Sample Content</p>
+	</div>
+	<div class="4u 12u$(medium)">
+		<h3>Sample Content</h3>
+		<p>Sample Content</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>Sample Content</h3>
+		<p>Sample Content</p>
+	</div>
+</div>
 
 </div>
