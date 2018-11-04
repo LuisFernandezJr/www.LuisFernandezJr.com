@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects & Professional Experience
+title: Projects & Experience
 nav-menu: true
 ---
 
