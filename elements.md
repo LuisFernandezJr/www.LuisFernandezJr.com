@@ -11,7 +11,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1></h1>
+			<h1>Please find my Pfroffessional and Personal work below</h1>
 		</header>
 
 <h2 id="content">Projects</h2>
