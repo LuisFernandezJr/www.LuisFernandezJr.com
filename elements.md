@@ -15,7 +15,6 @@ nav-menu: true
 			<p> Try the <a href="https://luisfernandezjr.com/unity/index.html">Roll a Ball Mini Game</a> </p>
 		</header>
 
-</div>
 <h2 id="content">Sample Content</h2>
 <p>Sample</p>
 <div class="row">
