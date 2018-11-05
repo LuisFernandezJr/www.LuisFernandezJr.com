@@ -11,22 +11,23 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Please find my Proffessional and Personal work below</h1>
+			<h1>Please find my Professional and Personal work below</h1>
 		</header>
 
-<h2 id="content">Projects</h2>
-<p>Try the <a href="https://luisfernandezjr.com/unity/index.html">Roll a Ball Mini Game</a> </p>
+<h2 id="content">Software Projects</h2>
+<h3>Demo of "Roll a Ball"</h3>
+<p>Use the Arrow Keys<a href="https://luisfernandezjr.com/unity/index.html">Roll a Ball Mini Game</a></p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Polk State College</h3>
-		<p>IT & Financial Aid</p>
+		<h3>A Sample of Automating Financial Aid Data</h3>
+		<p></p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Are those Packets Good or Bad?</h3>
 		<p>Machine Learning Algorithm by Cyber Algo <a href="https://github.com/LuisFernandezJr/cyber-algo"> Our GitHub Project</a></p>
 		<iframe src="https://mypolk-my.sharepoint.com/personal/lffernandez_my_polk_edu/_layouts/15/Doc.aspx?sourcedoc={b11a7009-671a-497f-b4c2-bbf56fde313a}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
 	</div>
-	<!-- Break -->
+	<!-- Break
 	<div class="4u 12u$(medium)">
 		<h3>Scipts & Programs</h3>
 		<p>Financial Aid Data</p>
@@ -39,6 +40,7 @@ nav-menu: true
 		<h3>Sample Content</h3>
 		<p>Sample Content</p>
 	</div>
+ 	-->
 </div>
 
 </div>
