@@ -11,12 +11,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Please find my Professional and Personal work below</h1>
+			<h1>Please find my Professional and Personal projects below</h1>
 		</header>
 
 <h2 id="content">Software Projects</h2>
 <h3>Demo of "Roll a Ball"</h3>
-<p>Use the Arrow Keys<a href="https://luisfernandezjr.com/unity/index.html">Roll a Ball Mini Game</a></p>
+<p>Use the Arrow Keys <a href="https://luisfernandezjr.com/unity/index.html">Roll a Ball Mini Game</a></p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>A Sample of Automating Financial Aid Data</h3>
