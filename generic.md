@@ -15,7 +15,7 @@ nav-menu: true
 			<h3><center>University of South Florida</center></h3>
 			<div class="row 50% uniform">
 				<div class="3u" style="text-align: center;"><span class="image fit"><img src="assets/images/" alt="" /></span></div>
-				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/" alt="" /></span></div>
+				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/graduated.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"><img src="assets/images/" alt="" /></span></div>
 			</div>
 				<p><b>Master of Science, Cybersecurity </b><br> Concentration in Cyber Intelligence <br>Tampa, FL - 					Aug. 2018</p>
@@ -26,7 +26,7 @@ nav-menu: true
 			<h3><center>Polk State College</center></h3>
 			<div class="row 50% uniform">
 				<div class="3u" style="text-align: center;"><span class="image fit"><img src="assets/images/" alt="" /></span></div>
-				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/" alt="" /></span></div>
+				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/graduated.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"><img src="assets/images/" alt="" /></span></div>
 			</div>
 				<p><b>Bachelor of Applied Science in Supervision and Management</b><br>Concentration in Business 					Administration <br>Winter Haven, FL - Dec. 2018</p>
@@ -37,7 +37,7 @@ nav-menu: true
 			<h3><center>University of South Florida</center></h3>
 			<div class="row 50% uniform">
 				<div class="3u" style="text-align: center;"><span class="image fit"><img src="assets/images/" alt="" /></span></div>
-				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/" alt="" /></span></div>
+				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/graduated.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"><img src="assets/images/" alt="" /></span></div>
 			</div>
 				<p><b>Bachelor of Applied Science in Supervision and Management</b><br>Concentration in Business 					Administration <br>Winter Haven, FL - Dec. 2018</p>
