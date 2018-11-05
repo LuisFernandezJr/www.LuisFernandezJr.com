@@ -14,8 +14,8 @@ nav-menu: true
 			<h1>Professional and Personal projects</h1>
 		</header>
 
-<h2 id="content">Software Projects</h2>
-<h3>Demo of "Roll a Ball"</h3>
+<h2 id="content">Software Demo Projects</h2>
+
 <p>Use the Arrow Keys <a href="https://luisfernandezjr.com/unity/index.html">Roll a Ball Mini Game</a></p>
 <div class="row">
 	<div class="6u 12u$(small)">
