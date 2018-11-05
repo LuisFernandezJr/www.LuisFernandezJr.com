@@ -32,7 +32,7 @@ nav-menu: true
 			<p><b>Program Analysis and Execution</b></p>
 		</div>
 	</div>
-	<div class="3u$ 12u$(medium)">
+	<div class="3u 12u$(medium)">
 		<div class="box">
 			<h3><center>Data Analytics & Data Mining</center></h3>
 			<div class="row 50% uniform">
