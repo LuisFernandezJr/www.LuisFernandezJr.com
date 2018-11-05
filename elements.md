@@ -19,7 +19,7 @@ nav-menu: true
 <p>Keyboard Rquired - Use the Arrow Keys <a href="https://luisfernandezjr.com/unity/index.html">Roll a Ball Mini Game</a></p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>A Sample of Automating Financial Aid Data</h3>
+		<h3>Automating Financial Aid Data</h3>
 		<p></p>
 	</div>
 	<div class="6u$ 12u$(small)">
