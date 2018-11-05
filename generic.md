@@ -14,7 +14,7 @@ nav-menu: true
 		<div class="box">
 			<h3>University of South Florida</h3>
 			<div class="row 50% uniform">
-			<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/5.png" alt="" /></span></div>
+			<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/school.png" alt="" /></span></div>
 				<p><b>Master of Science, Cybersecurity </b><br> Concentration in Cyber Intelligence <br>Tampa, FL - Aug. 2018</p>
 		</div>
 	</div>
