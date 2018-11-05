@@ -12,6 +12,7 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>Please find my Proffessional and Personal work below</h1>
+			<div class="3u" style="text-align: center;"><span class="image fit"><img src="assets/images/invader.png" alt="" /></span></div>
 		</header>
 
 <h2 id="content">Projects</h2>
