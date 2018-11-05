@@ -12,7 +12,7 @@ nav-menu: true
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<div class="box">
-			<h3><center>Software & Hardware Implementation</center></h3>
+			<h3><center>Systems Implementation</center></h3>
 			<div class="row 50% uniform">
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/computer.png" alt="" /></span></div>
