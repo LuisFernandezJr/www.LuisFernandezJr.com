@@ -7,7 +7,7 @@ nav-menu: true
 ---
   <div class="content">
 	<hr>
-	<div class="row">
+<div class="row">
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<div class="box">
@@ -17,7 +17,7 @@ nav-menu: true
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/graduated.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-				<p><b>IT Support</p>
+				<p><b>IT Support</b></p>
 		</div>
 	</div>
 	<div class="4u 12u$(medium)">
@@ -28,7 +28,7 @@ nav-menu: true
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/graduated.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-			<p><b>Program Analysis and Execution</p>
+			<p><b>Program Analysis and Execution</b></p>
 		</div>
 	</div>
 	<div class="4u$ 12u$(medium)">
@@ -39,7 +39,7 @@ nav-menu: true
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/graduated.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-			<p><b>Databases, Extracts, and Predictive Anlaysis</p>
+			<p><b>Databases, Extracts, and Predictive Analysis</b></p>
 		</div>
 	</div>
 </div>
