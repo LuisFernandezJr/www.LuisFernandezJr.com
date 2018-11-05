@@ -5,6 +5,7 @@ description: Education, Certifications, and Skills
 image: assets/images/CyberMind.png
 nav-menu: true
 ---
+<h1>Skills</h1>
   <div class="content">
 	<hr>
 <div class="row">
@@ -84,12 +85,10 @@ nav-menu: true
 </div>
    
           
-<h1>Skills</h1>
+
 <hr>
 <ul>
-    <li>Software & Hardware Implementation </li>
-    <li>Scripting, Programming, & Cryptography </li>
-    <li>Data Analysis, Information Security, Strategy & Decision Making</li>
+    <li>Information Security, Strategy & Decision Making</li>
     <li>System Access Control, Systems Administration, & Compliance
     <li>Security Risk Analysis, Cybersecurity Planning and Management</li>
     <li>Network Technology and Protocols, Network Defense, & Networking Concepts</li>
