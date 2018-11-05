@@ -45,13 +45,13 @@ nav-menu: true
 	</div>
 	<div class="3u 12u$(medium)">
 		<div class="box">
-			<h3><center>Network & Access Control</center></h3>
+			<h3><center>Networking</center></h3>
 			<div class="row 50% uniform">
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
-				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/computer.png" alt="" /></span></div>
+				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/cloud-computing.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-				<p><b>IT Support</b></p>
+				<p><b>Cloud Services, Packet Capturing and Tracing, and Virtual Environments </b></p>
 		</div>
 	</div>
 </div>
