@@ -17,6 +17,7 @@ nav-menu: true
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/graduated.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 				<p><b>Master of Science, Cybersecurity </b><br> Concentration in Cyber Intelligence <br>Tampa, FL - 					Aug. 2018</p>
+			</div>
 		</div>
 	</div>
 	<div class="4u 12u$(medium)">
@@ -26,6 +27,7 @@ nav-menu: true
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/graduated.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"></span></div>
 				<p><b>Bachelor of Applied Science in Supervision and Management</b><br>Concentration in Business 					Administration <br>Winter Haven, FL - Dec. 2018</p>
+			</div>
 		</div>
 	</div>
 	<div class="4u$ 12u$(medium)">
