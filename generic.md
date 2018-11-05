@@ -8,7 +8,7 @@ nav-menu: true
   <div class="content">
   <h1>Education</h1>
   <hr>
-	<div class="row">
+<div class="row">
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<div class="box">
@@ -18,19 +18,19 @@ nav-menu: true
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/graduated.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-				<p><b>Master of Science, Cybersecurity </b><br> Concentration in Cyber Intelligence <br>Tampa, FL - 					Aug. 2018</p>
+				<p><b>Master of Science in Cybersecurity </b><br> Concentration in Cyber Intelligence <br>Tampa, FL - Aug. 2018</p>
 		</div>
 	</div>
 	<div class="4u 12u$(medium)">
 		<div class="box">
 			<h3><center>Polk State College</center></h3>
 			<div class="row 50% uniform">
-				<div class="3u" style="text-align: center;"><span class="image fit"></div>
+				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/graduated.png" alt="" /></span></div>
-				<div class="3u" style="text-align: center;"></span></div>
-		</div>
-				<p><b>Bachelor of Applied Science in Supervision and Management</b><br>Concentration in Business 					Administration <br>Winter Haven, FL - Dec. 2018</p>
+				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
+			<p><b>Bachelor of Applied Science in Supervision and Management</b><br>Concentration in Business Administration <br>Winter Haven, FL - Dec. 2017</p>
+		</div>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<div class="box">
@@ -40,7 +40,8 @@ nav-menu: true
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/graduated.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-				<p><b>Bachelor of Applied Science in Supervision and Management</b><br>Concentration in Business 					Administration <br>Winter Haven, FL - Dec. 2018</p>
+			<p><b>Bachelor of Applied Science in Information Technology</b><br>Tampa, FL - Aug. 2013</p>
+		</div>
 	</div>
 </div>
 	
