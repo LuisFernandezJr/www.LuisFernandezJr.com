@@ -11,6 +11,7 @@ nav-menu: true
 <div class="row">
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
+		<div class="box">
 			<h3><center>University of South Florida</center></h3>
 			<div class="row 50% uniform">
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
@@ -21,6 +22,7 @@ nav-menu: true
 		</div>
 	</div>
 	<div class="4u 12u$(medium)">
+		<div class="box">
 			<h3><center>Polk State College</center></h3>
 			<div class="row 50% uniform">
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
@@ -31,6 +33,7 @@ nav-menu: true
 		</div>
 	</div>
 	<div class="4u$ 12u$(medium)">
+		<div class="box">
 			<h3><center>University of South Florida</center></h3>
 			<div class="row 50% uniform">
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
@@ -38,11 +41,9 @@ nav-menu: true
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
 			<p><b>Bachelor of Applied Science in Information Technology</b><br>Tampa, FL - Aug. 2013</p>
-
-
-	
-
-
+		</div>
+	</div>
+</div>
   <h1> Certifications and Awards</h1>
   <hr>
   <p><b>Comptia A+</b><br>Feb. 2008</p>
