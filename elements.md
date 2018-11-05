@@ -12,7 +12,7 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>Please find my Proffessional and Personal work below</h1>
-			<div class="3u" style="text-align: center;"><span class="image fit"><img src="assets/images/invader.png" alt="" /></span></div>
+			
 		</header>
 
 <h2 id="content">Projects</h2>
@@ -25,7 +25,7 @@ nav-menu: true
 	<div class="6u$ 12u$(small)">
 		<h3>Sofwerx</h3>
 		<p>Machine Learning</p>
-		<iframe src="https://mypolk-my.sharepoint.com/personal/lffernandez_my_polk_edu/_layouts/15/Doc.aspx?sourcedoc={b11a7009-671a-497f-b4c2-bbf56fde313a}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
+		<iframe src="https://mypolk-my.sharepoint.com/personal/lffernandez_my_polk_edu/_layouts/15/Doc.aspx?sourcedoc={b11a7009-671a-497f-b4c2-bbf56fde313a}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
