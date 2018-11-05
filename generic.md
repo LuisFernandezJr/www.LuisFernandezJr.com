@@ -12,13 +12,13 @@ nav-menu: true
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<div class="box">
-			<h3><center>Leadership</center></h3>
+			<h3><center>University of South Florida</center></h3>
 			<div class="row 50% uniform">
-				<div class="3u" style="text-align: center;"><span class="image fit"><img src="assets/images/Leader.png" alt="" /></span></div>
-				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/RedvBlueChief.png" alt="" /></span></div>
-				<div class="3u" style="text-align: center;"><span class="image fit"><img src="assets/images/Leader.png" alt="" /></span></div>
+				<div class="3u" style="text-align: center;"><span class="image fit"><img src="assets/images/" alt="" /></span></div>
+				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/" alt="" /></span></div>
+				<div class="3u" style="text-align: center;"><span class="image fit"><img src="assets/images/" alt="" /></span></div>
 			</div>
-				<p>I work with a variety of groups and individuals to provide leadership, mentoring, and training. We all play a role and many of us wear multiple hats. We live in a changing world and to become leaders we must know how to follow. Employees are assets not liabilities which is why they need growth, reinforcement, and purpose. No mission is impossible with cooperative leaders and teams.</p>
+				<p><b>Master of Science, Cybersecurity </b><br> Concentration in Cyber Intelligence <br>Tampa, FL - 					Aug. 2018</p>
 		</div>
 	</div>
 	<div class="4u 12u$(medium)">
@@ -49,10 +49,7 @@ nav-menu: true
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<div class="box">
-			<h3>University of South Florida</h3>
-			<div class="row 50% uniform">
-			<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/school.png" alt="" 				/></span></div>
-				<p><b>Master of Science, Cybersecurity </b><br> Concentration in Cyber Intelligence <br>Tampa, FL - 					Aug. 2018</p>
+				
 		</div>
 	</div>
 		<div class="4u 12u$(medium)">
