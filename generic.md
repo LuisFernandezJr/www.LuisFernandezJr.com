@@ -6,6 +6,7 @@ image: assets/images/CyberMind.png
 nav-menu: true
 ---
   <div class="content">
+	<hr>
 	<div class="row">
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
