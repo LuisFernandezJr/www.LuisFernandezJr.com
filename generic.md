@@ -22,6 +22,7 @@ nav-menu: true
 		</div>
 	</div>
 	<div class="4u 12u$(medium)">
+		<div class="box">
 			<h3><center>Polk State College</center></h3>
 			<div class="row 50% uniform">
 				<div class="3u" style="text-align: center;"><span class="image fit"></div>
@@ -29,10 +30,10 @@ nav-menu: true
 				<div class="3u" style="text-align: center;"></span></div>
 			</div>
 				<p><b>Bachelor of Applied Science in Supervision and Management</b><br>Concentration in Business 					Administration <br>Winter Haven, FL - Dec. 2018</p>
-			</div>
 		</div>
 	</div>
 	<div class="4u$ 12u$(medium)">
+		<div class="box">
 			<h3><center>University of South Florida</center></h3>
 			<div class="row 50% uniform">
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
@@ -40,7 +41,6 @@ nav-menu: true
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
 				<p><b>Bachelor of Applied Science in Supervision and Management</b><br>Concentration in Business 					Administration <br>Winter Haven, FL - Dec. 2018</p>
-		</div>
 	</div>
 </div>
 	
