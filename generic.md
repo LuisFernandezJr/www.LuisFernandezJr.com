@@ -39,8 +39,7 @@ nav-menu: true
 			</div>
 			<p><b>Bachelor of Applied Science in Information Technology</b><br>Tampa, FL - Aug. 2013</p>
 
-	</div>
-</div>
+
 	
 
 
