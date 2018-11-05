@@ -12,7 +12,6 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>Please find my Proffessional and Personal work below</h1>
-			
 		</header>
 
 <h2 id="content">Projects</h2>
@@ -23,8 +22,8 @@ nav-menu: true
 		<p>IT & Financial Aid</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Sofwerx</h3>
-		<p>Machine Learning</p>
+		<h3>Are those Packets Good or Bad?</h3>
+		<p>Machine Learning Algorithm by Cyber Algo <a href="https://github.com/LuisFernandezJr/cyber-algo"> Our GitHub Project</p>
 		<iframe src="https://mypolk-my.sharepoint.com/personal/lffernandez_my_polk_edu/_layouts/15/Doc.aspx?sourcedoc={b11a7009-671a-497f-b4c2-bbf56fde313a}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
 	</div>
 	<!-- Break -->
