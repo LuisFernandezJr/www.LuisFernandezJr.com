@@ -62,7 +62,11 @@ nav-menu: true
 				<header class="major">
 					<h3>p4</h3>
 				</header>
-				<p>TBD</p>
+				<p><p>Ethical Hacking experience is my next goal. I am prepped with knowledge and working in virtual labs for hands-on experience. Building on the skills to find vulnerabilities or White Hat Hackers interests me. I admire those capable of finding exploits in software and hardware. I always enjoy new technology and I know that finding these security holes can benefit others. I currently hold a CompTIA A+ and practice towards the Security+ and CISSP certifications.</p>
+
+<p>Creating software for various platforms and providing creative solutions and teaching others of the interfaces and intricacies of a systems is my intent. By studying Cybersecurity, I educate others on threats and secure practices. I am also aware of the importance in confidentiality, authentication, and integrity. Maintaining user roles and permissions is important for auditing purposes and I continue to enjoy this line of work. Ultimately, my hobby in video games leads me to explore more and find areas of improvement. I'd  enjoy to protect and secure the services in entertainment that fail due to users participating in malicious activities. Maintaining services, development, and access control is important in todays world.  The potential of AI or extensive networking tools to maintain network security and Quality of Service is important going forward. Artificial Intelligence is a strong tool that can be used with or even against Cybersecurity. </p>
+
+<p>Experience at SOFWERX involved real time threat analysis. With the experience as a Data Science Intern, utilizing Machine Learning to identify anomalous or adversarial actions based on packet data is one of many approaches a Cyber Analyst can take to identify threats. The internship brings me such a unique environment with lots to explore. </p></p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -75,13 +79,8 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Looking ahead</h2>
+			<h2>Check out my credentials</h2>
 		</header>
-		<p>Ethical Hacking Certification is my next goal. I am prepped with knowledge and working in virtual labs for hands-on experience. Building on the skills to find vulnerabilities or White Hat Hackers interests me. I admire those capable of finding exploits in software and hardware. I always enjoy new technology and I know that finding these security holes can benefit others. I currently hold a CompTIA A+ and practice towards the Security+ and CISSP certiffications.</p>
-
-<p>Creating software for various platforms and providing creative solutions and teaching others of the interfaces and intricacies of a systems is my intent. By studying Cybersecurity, I educate others on threats and secure practices. I am also aware of the importance in confidentiality, authentication, and integrity. Maintaining user roles and permissions is important for auditing purposes and I continue to enjoy this line of work. Ultimately, my hobby in video games leads me to explore more and find areas of improvement. I'd  enjoy to protect and secure the services in entertainment that fail due to users participating in malicious activities. Maintaining services, development, and access control is important in todays world.  The potential of AI or extensive networking tools to maintain network security and Quality of Service is important going forward. Artificial Intelligence is a strong tool that can be used with or even against Cybersecurity. </p>
-
-<p>Experience at SOFWERX involved real time threat analysis. With the experience as a Data Science Intern, utilizing Machine Learning to identify anomalous or adversarial actions based on packet data is one of many approaches a Cyber Analyst can take to identify threats. The internship brings me such a unique environment with lots to explore. </p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
