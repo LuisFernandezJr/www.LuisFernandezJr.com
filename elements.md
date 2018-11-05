@@ -16,7 +16,7 @@ nav-menu: true
 
 <h2 id="content">Software Demos</h2>
 
-<p>Keyboard Rquired - Use the Arrow Keys <a href="https://luisfernandezjr.com/unity/index.html">Roll a Ball Mini Game</a></p>
+<p>Keyboard Required - Use the Arrow Keys <a href="https://luisfernandezjr.com/unity/index.html">Roll a Ball Mini Game</a></p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Automating Financial Aid Data</h3>
