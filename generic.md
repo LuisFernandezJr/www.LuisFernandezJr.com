@@ -38,7 +38,7 @@ nav-menu: true
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
 			<p><b>Bachelor of Applied Science in Information Technology</b><br>Tampa, FL - Aug. 2013</p>
-		</div>
+
 	</div>
 </div>
 	
