@@ -6,6 +6,13 @@ image: assets/images/CyberMind.png
 nav-menu: true
 ---
   <div class="content">
+	
+<h1> Certifications and Awards</h1>
+  <hr>
+  <p><b>Comptia A+</b><br>Feb. 2008</p>
+  <p><b>Certified Ethical Hacker</b><br>Nov. 2018</p>
+  <p><b>5 Year Service Award</b><br>Polk State College</p>
+  
   <h1>Education</h1>
   <hr>
 <div class="row">
@@ -38,12 +45,7 @@ nav-menu: true
 			<p><b>Bachelor of Applied Science in Information Technology</b><br>Tampa, FL - Aug. 2013</p>
 	</div>
 </div>
-  <h1> Certifications and Awards</h1>
-  <hr>
-  <p><b>Comptia A+</b><br>Feb. 2008</p>
-  <p><b>Certified Ethical Hacker</b><br>Nov. 2018</p>
-  <p><b>5 Year Service Award</b><br>Polk State College</p>
-  
+   
           
 <h1>Skills</h1>
 <hr>
