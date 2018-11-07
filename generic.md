@@ -18,7 +18,7 @@ nav-menu: true
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/computer.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-				<p><b>IT Support, Problem Solving, Diagnosis, Software & Hardware Troubleshooting, Documentation, Configuration, and Mobility.  </b></p>
+				<p>IT Support, Problem Solving, Diagnosis, Documentation, Configuration, and Mobility.</p>
 		</div>
 	</div>
 	<div class="3u 12u$(medium)">
