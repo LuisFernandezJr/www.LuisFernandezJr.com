@@ -5,7 +5,7 @@ description: Education, Certifications, and Skills
 image: assets/images/CyberMind.png
 nav-menu: true
 ---
-<h1>Skills</h1>
+<h1>Skills and Areas of Expertise</h1>
   <div class="content">
 	<hr>
 <div class="row">
@@ -18,7 +18,7 @@ nav-menu: true
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/computer.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-				<p><b>IT Support</b></p>
+				<p><b>IT Support, Problem Solving, Diagnosis, Software & Hardware Troubleshooting, Documentation, Configuration, and Mobility.  </b></p>
 		</div>
 	</div>
 	<div class="3u 12u$(medium)">
@@ -29,7 +29,7 @@ nav-menu: true
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/coding.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-			<p><b>Program Analysis and Execution</b></p>
+			<p><b>Analysis, Research, Logic, Scientific Method, Creativity, and a Variety of Languages.    </b></p>
 		</div>
 	</div>
 	<div class="3u 12u$(medium)">
@@ -40,7 +40,7 @@ nav-menu: true
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/analysis.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-			<p><b>Databases, Extracts, and Predictive Analysis</b></p>
+			<p><b>Databases, Extracts, Reporting, and Predictive Analysis</b></p>
 		</div>
 	</div>
 	<div class="3u 12u$(medium)">
@@ -51,7 +51,7 @@ nav-menu: true
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/cloud-computing.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-				<p><b>Cloud Services, Packet Capturing and Tracing, and Virtual Environments </b></p>
+				<p><b>Information Security, Packet Capturing and Tracing, Virtual Environments and Cloud Services. </b></p>
 		</div>
 	</div>
 </div>
