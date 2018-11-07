@@ -18,7 +18,7 @@ nav-menu: true
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/computer.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-				<p>IT Support, Problem Solving, Diagnosis, Documentation, Configuration, and Mobility.</p>
+				<p><center>IT Support, Problem Solving, Diagnosis, Documentation, Configuration, and Mobility</center></p>
 		</div>
 	</div>
 	<div class="3u 12u$(medium)">
@@ -29,7 +29,7 @@ nav-menu: true
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/coding.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-			<p><b>Analysis, Research, Logic, Scientific Method, Creativity, and a Variety of Languages.    </b></p>
+			<p><center>Analysis, Research, Logic, Scientific Method, Creativity, and a Variety of Languages</center></p>
 		</div>
 	</div>
 	<div class="3u 12u$(medium)">
@@ -40,18 +40,18 @@ nav-menu: true
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/analysis.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-			<p><b>Databases, Extracts, Reporting, and Predictive Analysis</b></p>
+			<p><center>Databases, Extracts, Reporting, and Predictive Analysis</center></p>
 		</div>
 	</div>
 	<div class="3u 12u$(medium)">
 		<div class="box">
-			<h3><center>Networking</center></h3>
+			<h3><center>Networking & Security</center></h3>
 			<div class="row 50% uniform">
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/cloud-computing.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-				<p><b>Information Security, Packet Capturing and Tracing, Virtual Environments and Cloud Services. </b></p>
+				<p><center>Information Security, Packet Capturing and Tracing, Virtual Environments and Cloud Service Support. </center></p>
 		</div>
 	</div>
 </div>
