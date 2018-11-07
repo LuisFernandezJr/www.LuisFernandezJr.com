@@ -60,7 +60,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>p4</h3>
+					<h3>Lifelong Learning</h3>
 				</header>
 				<p><p>Ethical Hacking experience is my next goal. I am prepped with knowledge and working in virtual labs for hands-on experience. Building on the skills to find vulnerabilities or White Hat Hackers interests me. I admire those capable of finding exploits in software and hardware. I always enjoy new technology and I know that finding these security holes can benefit others. I currently hold a CompTIA A+ and practice towards the Security+ and CISSP certifications.</p>
 
