@@ -51,7 +51,7 @@ nav-menu: true
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/cloud-computing.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-				<p><center>Information Security, Packet Capturing and Tracing, Virtual Environments and Cloud Service Support. </center></p>
+				<p><center>Information Security, Protocols, Packet Capturing and Tracing, Virtual Environments and Cloud Service Support </center></p>
 		</div>
 	</div>
 </div>
