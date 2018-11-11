@@ -75,7 +75,7 @@ nav-menu: true
 	<div class="6u$ 12u$(small)">
 		<h3>Packet Scanning & Machine Learning</h3>
 		<p>Algorithm by Team CyberAlgo <a href="https://github.com/LuisFernandezJr/cyber-algo"> Our GitHub Project</a></p>
-		<p><a href="https://github.com/LuisFernandezJr/cyber-algo" class="button default">CyberAlgo</a></p>
+		<p><a href="https://github.com/LuisFernandezJr/cyber-algo" class="button default">Cyber-Algo</a></p>
 	</div>
 	<!-- Break
 	<div class="4u 12u$(medium)">
