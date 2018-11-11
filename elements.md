@@ -58,7 +58,6 @@ nav-menu: true
 				</tfoot>
 			</table>
 		</div>
-	</div>
 
 		
 <h1>Personal and Professional Projects</h1>
