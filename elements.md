@@ -17,43 +17,44 @@ nav-menu: true
 	<table>
 		<thead>
 			<tr>
-				<th>Name</th>
-				<th>Description</th>
-				<th>Price</th>
+				<th>Company</th>
+				<th>Dept. or Role</th>
+				<th>Years</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
-				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
+				<td>Polk State College</td>
+				<td>Data Analyst</td>
+				<td>4</td>
 			</tr>
 			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
+				<td>SOFWERX</td>
+				<td>Data Science</td>
+				<td><1</td>
 			</tr>
 			<tr>
-				<td>Item3</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>29.99</td>
+				<td>Polk State College</td>
+				<td>PC Support Specialist</td>
+				<td>2</td>
 			</tr>
 			<tr>
-				<td>Item4</td>
-				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
+				<td>Saddle Creek Logisitcs</td>
+				<td>Ethanography</td>
+				<td><1</td>
 			</tr>
 			<tr>
-				<td>Item5</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
+				<td>MF Electronics</td>
+				<td>Electronics Technician</td>
+				<td>3</td>
+			</tr>
+				<tr>
+				<td>Heart of Florida Regional Medical Center</td>
+				<td>Medical Information Systems</td>
+				<td><1</td>
 			</tr>
 		</tbody>
 		<tfoot>
-			<tr>
-				<td colspan="2"></td>
-				<td>100.00</td>
-			</tr>
 		</tfoot>
 	</table>
 </div>
