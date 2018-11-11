@@ -38,7 +38,7 @@ nav-menu: true
 				<td>2</td>
 			</tr>
 			<tr>
-				<td>Saddle Creek Logisitcs</td>
+				<td>Saddle Creek Logistics</td>
 				<td>Ethanography</td>
 				<td><1</td>
 			</tr>
