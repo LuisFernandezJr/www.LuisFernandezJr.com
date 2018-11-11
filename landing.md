@@ -88,7 +88,7 @@ nav-menu: true
 			<h2>Thank You For Reading</h2>
 		</header>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Check Out My Credentials</a></li>
+			<li><a href="generic.html" class="button next">See My Credentials</a></li>
 		</ul>
 	</div>
 </section>
