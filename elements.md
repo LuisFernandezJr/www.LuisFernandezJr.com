@@ -11,8 +11,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Professional and Personal projects</h1>
-			<h4>Default</h4>
+			<h1>Work Experience</h1>
 <div class="table-wrapper">
 	<table>
 		<thead>
@@ -60,6 +59,7 @@ nav-menu: true
 </div>
 		</header>
 
+<h1>Personal and Preofessional Projects</h1>
 <h2 id="content">Software Demos</h2>
 
 <p>Keyboard Required - Use the Arrow Keys <a href="https://luisfernandezjr.com/unity/index.html">Roll a Ball Mini Game</a></p>
