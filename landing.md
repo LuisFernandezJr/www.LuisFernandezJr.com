@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Introduction</h2>
 		</header>
-		<p>Luis Fernandez Jr, born on August 10th, in New Jersey, is intrigued by user interfaces since his early childhood, and began to show interest in the science of computers around the early age of 6. Over the past years of technological advancements, Luis has become agile, proficient, and inspired by systems design within an organization as well as collaborative with a variety of functioning areas. As business evolves through the technological era, Luis continues to acquire knowledge in management of operations, and understanding the threats to provide thorough analysis and support for cybersecurity and IT operations.</p>
+		<p>Luis Fernandez Jr. is an information technologist. He grew up interacting with user interfaces and computer systems  and began to show interest in the science of computers since his early childhood. Over the past years of technological advancements, Luis is agile, proficient, and inspired by systems design and he collaborates with a variety of functioning teams. Today, Luis continues to work to provide support in the management of business operations, cybersecurity , and IT operations.</p>
 	</div>
 </section>
 
@@ -30,7 +30,13 @@ nav-menu: true
 				<header class="major">
 					<h3>Accomplishments</h3>
 				</header>
-				<p>I always enjoy learning how technology works, it's as if I am working with legos and understand how each block serves it purpose and place.  </p>
+				<p>Luis has strongly supported and worked with a variety of industries. In 2008, the Heart of Florida Regional Medical Center offered Luis an opportunity to serve his community in providing IT support within the Health Care industry. After learning how Medical Information Systems operated, Luis began to provide sales, support and management with MF Electronics, an electronics components retailer. </p>
+				<p>In 2012, Luis began his IT career as a PC Support Specialist in Polk State College. While working on a Bachelor’s Degree in Information Technology, Luis began to shadow Saddle Creek Logistics in order to study the company’s culture. With Luis’s wide array of experience he took the role as Data Analyst for Financial Aid within Polk State College. 
+				</p>
+				<p>In 2015, Luis began his graduate studies in Cybersecurity. From supporting any software and hardware to data mining and providing analysis Luis had become a power user within the organization. During this role, Luis worked with SOFWERX, a company partnered with United States Special Operations Command (USSOCOM) to provide innovative solutions. 
+				</p>
+				<p>After learning systems implementations, machine learning, security access control, data analysis, and an extensive amount of technologies, Luis began to look toward protecting users. Upon learning cyber threats, defensive strategies and security methods, Luis is strengthening his skillset in the field of Cybersecurity.  Today, Luis continues to practice and learn about new technologies in order to defend and support users and organizations.
+				</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
