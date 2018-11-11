@@ -70,13 +70,12 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Automation Scripts</h3>
-		<li><a href="#" class="button default">Coming Soon</a></li>
-		<p></p>
+		<p><a href="#" class="button default">Coming Soon</a></p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Packet Scanning & Machine Learning</h3>
 		<p>Algorithm by Team CyberAlgo <a href="https://github.com/LuisFernandezJr/cyber-algo"> Our GitHub Project</a></p>
-		<li><a href="https://github.com/LuisFernandezJr/cyber-algo" class="button default">CyberAlgo</a></li>
+		<p><a href="https://github.com/LuisFernandezJr/cyber-algo" class="button default">CyberAlgo</a></p>
 	</div>
 	<!-- Break
 	<div class="4u 12u$(medium)">
