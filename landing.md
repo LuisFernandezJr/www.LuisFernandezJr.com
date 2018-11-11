@@ -85,10 +85,10 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Check out my credentials</h2>
+			<h2>Thank You For Reading</h2>
 		</header>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="generic.html" class="button next">Check Out My Credentials</a></li>
 		</ul>
 	</div>
 </section>
