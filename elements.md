@@ -59,9 +59,8 @@ nav-menu: true
 		</tfoot>
 	</table>
 </div>
-	</div>
-		</header>
-
+</div>
+		
 <h1>Personal and Professional Projects</h1>
 <h2 id="content">Software Demos</h2>
 
