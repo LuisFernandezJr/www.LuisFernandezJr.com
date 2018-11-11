@@ -12,8 +12,6 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>Work Experience</h1>
-<div class="row">
-	<div class="6u 12u$(small)">			
 <div class="table-wrapper">
 	<table>
 		<thead>
@@ -60,7 +58,7 @@ nav-menu: true
 	</table>
 	</header>
 </div>
-</div>
+
 		
 <h1>Personal and Professional Projects</h1>
 <h2 id="content">Software Demos</h2>
