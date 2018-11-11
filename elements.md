@@ -65,7 +65,7 @@ nav-menu: true
 
 <p>Keyboard Required - Use the Arrow Keys <a href="https://luisfernandezjr.com/unity/index.html">Roll a Ball Mini Game</a></p>
 <ul class="actions">
-	<li><a href="https://luisfernandezjr.com/unity/index.html" class="Play Roll a Ball Mini Game">Big</a></li>
+	<li><a href="https://luisfernandezjr.com/unity/index.html" class="button big">Play Roll a Ball Mini Game</a></li>
 </ul>
 <div class="row">
 	<div class="6u 12u$(small)">
