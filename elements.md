@@ -75,7 +75,6 @@ nav-menu: true
 	<div class="6u$ 12u$(small)">
 		<h3>Packet Scanning & Machine Learning</h3>
 		<p>Algorithm by Cyber Algo <a href="https://github.com/LuisFernandezJr/cyber-algo"> Our GitHub Project</a></p>
-		<iframe src="https://mypolk-my.sharepoint.com/personal/lffernandez_my_polk_edu/_layouts/15/Doc.aspx?sourcedoc={b11a7009-671a-497f-b4c2-bbf56fde313a}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
 	</div>
 	<!-- Break
 	<div class="4u 12u$(medium)">
