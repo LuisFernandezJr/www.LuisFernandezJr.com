@@ -59,7 +59,7 @@ nav-menu: true
 </div>
 		</header>
 
-<h1>Personal and Preofessional Projects</h1>
+<h1>Personal and Professional Projects</h1>
 <h2 id="content">Software Demos</h2>
 
 <p>Keyboard Required - Use the Arrow Keys <a href="https://luisfernandezjr.com/unity/index.html">Roll a Ball Mini Game</a></p>
