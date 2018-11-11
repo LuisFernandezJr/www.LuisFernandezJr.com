@@ -12,6 +12,7 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>Work Experience</h1>
+		</header>
 
 		
 <h1>Personal and Professional Projects</h1>
