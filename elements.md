@@ -58,6 +58,7 @@ nav-menu: true
 		<tfoot>
 		</tfoot>
 	</table>
+	</header>
 </div>
 </div>
 		
