@@ -63,9 +63,9 @@ nav-menu: true
 <h1>Personal and Professional Projects</h1>
 <h2 id="content">Software Demos</h2>
 
-<p>Keyboard Required - Use the Arrow Keys <a href="https://luisfernandezjr.com/unity/index.html">Roll a Ball Mini Game</a></p>
+<p>Keyboard Arrow Keys Required Click to play <a href="https://luisfernandezjr.com/unity/index.html">Roll a Ball Mini Game</a></p>
 <ul class="actions">
-	<li><a href="https://luisfernandezjr.com/unity/index.html" class="button big">Play Roll a Ball Mini Game</a></li>
+	<li><a href="https://luisfernandezjr.com/unity/index.html" class="button big">Roll-a-Ball Mini Game</a></li>
 </ul>
 <div class="row">
 	<div class="6u 12u$(small)">
