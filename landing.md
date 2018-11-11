@@ -35,7 +35,7 @@ nav-menu: true
 				</p>
 				<p>In 2015, Luis began his graduate studies in Cybersecurity. From supporting any software and hardware to data mining and providing analysis Luis had become a power user within the organization. During this role, Luis worked with SOFWERX, a company partnered with United States Special Operations Command (USSOCOM) to provide innovative solutions. 
 				</p>
-				<p>After learning systems implementations, machine learning, security access control, data analysis, and an extensive amount of technologies, Luis began to look toward protecting users. Upon learning cyber threats, defensive strategies and security methods, Luis is strengthening his skillset in the field of Cybersecurity.  Today, Luis continues to practice and learn about new technologies in order to defend and support users and organizations.
+				<p>After learning systems implementations, machine learning, security access control, data analysis, and an extensive amount of technologies, Luis began to look toward protecting users information. Upon learning about cyber threats, defensive strategies, and security methods, Luis strengthens his skillset in the field of Cybersecurity.  Today, Luis continues to practice and learn about new technologies in order to defend and support users and organizations.
 				</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
@@ -52,7 +52,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Interests & Hobbies</h3>
 				</header>
-				<p>Luis enjoys playing video games in his free time and he's veryselective. With a variety of Genres to select from he always leans towards the Super Smash Brothers franchise due to it's in depth mechanics and variety of options. Luis likes to portray Sun Tzus quote “If you know the enemy and know yourself, you need not fear the result of a hundred battles." Luis knows that  knowing options in your enviroment everything changes. Super Smash Brothers allows Luis to paint his decision making process on screen. Controllers are considered to be a paintbush for Luis and the screen is his canvas as he enjoys depicting his style.</p>
+				<p>Luis enjoys playing video games in his free time and he's very selective. With a variety of genres to select from he always leans towards the Super Smash Brothers franchise due to it's in depth mechanics and variety of options. Luis likes to portray Sun Tzus' quote “If you know the enemy and know yourself, you need not fear the result of a hundred battles." Luis understands that the principle of knowing your options in your enviroment changes everything. Super Smash Brothers allows Luis to paint his decision making process on screen. Controllers are considered to be a paintbush for Luis and the screen is his canvas as he enjoys depicting his style.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
