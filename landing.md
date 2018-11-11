@@ -52,7 +52,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Interests & Hobbies</h3>
 				</header>
-				<p>I enjoy playing video games in my free time and I am very selective. I play a variety of Genres for fun but you can always find me playing the Super Smash Brothers franchise due to it's in depth mechanics and variety of options. Sun Tzu is more than accurate when saying “If you know the enemy and know yourself, you need not fear the result of a hundred battles." When it's comes to knowing options in your enviroment everything changes. Super Smash Brothers allows me to paint decision making process on screen. Controllers are my canvas and I enjoy depicting my style.</p>
+				<p>Luis enjoys playing video games in his free time and he's veryselective. With a variety of Genres to select from he always leans towards the Super Smash Brothers franchise due to it's in depth mechanics and variety of options. Luis likes to portray Sun Tzus quote “If you know the enemy and know yourself, you need not fear the result of a hundred battles." Luis knows that  knowing options in your enviroment everything changes. Super Smash Brothers allows Luis to paint his decision making process on screen. Controllers are considered to be a paintbush for Luis and the screen is his canvas as he enjoys depicting his style.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
