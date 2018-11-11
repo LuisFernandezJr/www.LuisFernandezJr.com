@@ -73,7 +73,7 @@ nav-menu: true
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/graduated.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-				<p><b>Master of Science in Cybersecurity </b><br> Concentration in Cyber Intelligence <br>Tampa, FL - Aug. 2018</p>
+				<p><center><b>Master of Science in Cybersecurity </b><br> Concentration in Cyber Intelligence <br>Tampa, FL - Aug. 2018</center></p>
 	</div>
 	<div class="4u 12u$(medium)">
 			<h3><center>Polk State College</center></h3>
@@ -82,7 +82,7 @@ nav-menu: true
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/graduated.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-			<p><b>Bachelor of Applied Science in Supervision and Management</b><br>Concentration in Business Administration <br>Winter Haven, FL - Dec. 2017</p>
+			<p><center><b>Bachelor of Applied Science in Supervision and Management</b><br>Concentration in Business Administration <br>Winter Haven, FL - Dec. 2017</center></p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 			<h3><center>University of South Florida</center></h3>
@@ -91,7 +91,7 @@ nav-menu: true
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/graduated.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-			<p><b>Bachelor of Applied Science in Information Technology</b><br>Tampa, FL - Aug. 2013</p>
+			<p><center><b>Bachelor of Applied Science in Information Technology</b><br>Tampa, FL - Aug. 2013</center></p>
 	</div>
 </div>
    
