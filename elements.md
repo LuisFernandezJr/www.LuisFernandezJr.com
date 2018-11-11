@@ -59,6 +59,7 @@ nav-menu: true
 	</header>
 </div>
 	</div>
+		</div>
 		
 <h1>Personal and Professional Projects</h1>
 <h2 id="content">Software Demos</h2>
