@@ -13,7 +13,55 @@ nav-menu: true
 		<header class="major">
 			<h1>Work Experience</h1>
 		</header>
+<div class="6u 12u$(small)">
 
+	<div class="table-wrapper">
+			<table>
+				<thead>
+					<tr>
+						<th>Company</th>
+						<th>Dept. or Role</th>
+						<th>Years</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Polk State College</td>
+						<td>Data Analyst</td>
+						<td>4</td>
+					</tr>
+					<tr>
+						<td>SOFWERX</td>
+						<td>Data Science</td>
+						<td><1</td>
+					</tr>
+					<tr>
+						<td>Polk State College</td>
+						<td>PC Support Specialist</td>
+						<td>2</td>
+					</tr>
+					<tr>
+						<td>Saddle Creek Logistics</td>
+						<td>Ethanography</td>
+						<td><1</td>
+					</tr>
+					<tr>
+						<td>MF Electronics</td>
+						<td>Electronics Technician</td>
+						<td>3</td>
+					</tr>
+						<tr>
+						<td>Heart of Florida Regional Medical Center</td>
+						<td>Medical Information Systems</td>
+						<td><1</td>
+					</tr>
+				</tbody>
+				<tfoot>
+				</tfoot>
+			</table>
+		</div>
+		
+</div>
 		
 <h1>Personal and Professional Projects</h1>
 <h2 id="content">Software Demos</h2>
@@ -32,6 +80,9 @@ nav-menu: true
 		<p>Algorithm by Team CyberAlgo <a href="https://github.com/LuisFernandezJr/cyber-algo"> Our GitHub Project</a></p>
 		<p><a href="https://github.com/LuisFernandezJr/cyber-algo" class="button default">Cyber-Algo</a></p>
 	</div>
-
+	<div class="6u 12u$(small)">
+		<h3>Automation Scripts</h3>
+		<p><a href="#" class="button default">Coming Soon</a></p>
+	</div>
 </div>
 
