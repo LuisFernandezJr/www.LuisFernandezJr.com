@@ -60,7 +60,7 @@ nav-menu: true
 				</tfoot>
 			</table>
 		</div>
-	<div class="6u 12u$(small)">
+	<div class="4 12u$(small)">
 		<h3>Software Demos</h3>
 		<p><a href="#" class="button default">Coming Soon</a></p>
 	</div>
