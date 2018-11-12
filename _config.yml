@@ -1,5 +1,5 @@
 # site settings
-title: Luis Fernandez Jr. | IT Professional
+title: Luis Fernandez Jr. | Home
 subtitle: Information Technology | Cybersecurity
 email: jrluisfernandez@gmail.com
 avatar: /assets/images/pic01.img
@@ -7,7 +7,7 @@ description: I am interactive. It's my intent to find solutions, my perseverance
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: Forest Ridge
+street_address:
 city: Winter Haven
 state: FL
 zip_code: 33881
