@@ -71,7 +71,7 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Automation Scripts</h3>
-		<p>Migrate files to Your Work Queue </a></p>
+		<p>Migrate files to Your Work Queue</p>
 		<p><a href="#" class="button default">Coming Soon</a></p>
 	</div>
 	<div class="6u$ 12u$(small)">
@@ -80,8 +80,8 @@ nav-menu: true
 		<p><a href="https://github.com/LuisFernandezJr/cyber-algo" class="button default">Cyber-Algo</a></p>
 	</div>
 	<div class="6u 12u$(small)">
-		<h3>Jenzabar Enterprise Resource Planning</h3>
-		<p>Financial Aid, Internet Campus Solution, Retention</a></p>
+		<h3>Enterprise Resource Planning</h3>
+		<p>Financial Aid, Internet Campus Solution, Retention</p>
 		<p><a href="#" class="button default">Jenzabar</a></p>
 	</div>
 </div>
