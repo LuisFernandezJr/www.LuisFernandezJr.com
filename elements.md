@@ -58,12 +58,8 @@ nav-menu: true
 				</tbody>
 				<tfoot>
 				</tfoot>
-		</table>
-	</div>
-<div class="4 12u$(small)">
-		<h3>Software Demos</h3>
-		<p><a href="#" class="button default">Coming Soon</a></p>
-</div>
+			</table>
+		</div>
 </div>
 		
 <h1>Personal and Professional Projects</h1>
