@@ -14,7 +14,6 @@ nav-menu: true
 			<h1>Work Experience</h1>
 		</header>
 <div class="6u 12u$(small)">
-
 	<div class="table-wrapper">
 			<table>
 				<thead>
@@ -80,8 +79,8 @@ nav-menu: true
 		<p><a href="https://github.com/LuisFernandezJr/cyber-algo" class="button default">Cyber-Algo</a></p>
 	</div>
 	<div class="6u 12u$(small)">
-		<h3>Automation Scripts</h3>
-		<p><a href="#" class="button default">Coming Soon</a></p>
+		<h3>Enterprise Resource Planning</h3>
+		<p><a href="#" class="button default">Jenzabar</a></p>
 	</div>
 </div>
 
