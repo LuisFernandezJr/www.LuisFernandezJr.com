@@ -72,7 +72,7 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 		<h3>Automation Scripts</h3>
 		<p>Migrate files to Your Work Queue</p>
-		<p><a href="#" class="button default">Coming Soon</a></p>
+		<p><a href="https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy" class="button default">Robo-Copy</a></p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Packet Scanning & Machine Learning</h3>
@@ -82,7 +82,7 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 		<h3>Enterprise Resource Planning</h3>
 		<p>Financial Aid, Internet Campus Solution, Retention</p>
-		<p><a href="#" class="button default">Jenzabar</a></p>
+		<p><a href="https://www.jenzabar.com/" class="button default">Jenzabar</a></p>
 	</div>
 </div>
 
