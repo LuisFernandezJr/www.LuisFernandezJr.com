@@ -94,6 +94,15 @@ nav-menu: true
 			<p><center><b>Bachelor of Applied Science in Information Technology</b><br>Tampa, FL - Aug. 2013</center></p>
 	</div>
 </div>
+
+<div class="4u$ 12u$(medium)">
+			<h3><center>EC-Council</center></h3>
+			<div class="row 50% uniform">
+				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
+				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/CEH.png" alt="" /></span></div>
+				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
+			</div>
+	</div>
    
      <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2d898d05-b4ba-4f73-ac00-26e35fe13a5c"></div>
   <script type="text/javascript">
