@@ -102,9 +102,11 @@ nav-menu: true
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/CEH.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-	</div>
-   
-     <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2d898d05-b4ba-4f73-ac00-26e35fe13a5c"></div>
+</div>
+	
+<div class="4u$ 12u$(medium)">
+			<h3><center>Comptia</center></h3>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2d898d05-b4ba-4f73-ac00-26e35fe13a5c"></div>
   <script type="text/javascript">
     (function() {
       var s = document.createElement('script');
@@ -115,6 +117,11 @@ nav-menu: true
       o.parentNode.insertBefore(s, o);
       })();
   </script>
+			</div>
+</div>
+	
+   
+     
 
           
 
