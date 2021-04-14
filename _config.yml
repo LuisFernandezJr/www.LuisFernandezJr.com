@@ -8,7 +8,7 @@ baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address:
-city: Winter Haven
+city: Central
 state: FL
 zip_code: 33881
 country: United States of America
