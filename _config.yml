@@ -20,13 +20,14 @@ tiles-count: 6
 
 # social settings
 500px_url: https://avatars0.githubusercontent.com/u/40038841?s=460&v=4
-facebook_url: https://www.facebook.com/reggaeton1991
+facebook_url: https://www.facebook.com/
 github_url: https://github.com/LuisFernandezJr
 instagram_url: 
 linkedin_url: https://www.linkedin.com/in/luisfernandezjr/
 pinterest_url:
 slack_url:
 twitter_url: 
+#curious aren't you? :)
 
 #plugins
 plugins:
