@@ -58,8 +58,9 @@ nav-menu: true
 	
 <h1> Certifications and Awards</h1>
   <hr>
-  <p><b>Comptia A+</b><br>Feb. 2008</p>
-  <p><b>Certified Ethical Hacker</b><br>Nov. 2018</p>
+  <p><b>Comptia</b><br>A+, Network+, Security +, CySA+</p>
+  <p><b>EC-Council</b><br>Certified Ethical Hacker</p>
+  <p><b>ISC²</b><br>CISSP</p>
   <p><b>5 Year Service Award</b><br>Polk State College</p>
   
   <h1>Education</h1>
@@ -118,11 +119,5 @@ nav-menu: true
       })();
   </script>
 			</div>
-</div>
-	
-   
-     
-
-          
-
+</div>    
 <hr>
