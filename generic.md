@@ -77,35 +77,14 @@ nav-menu: true
 <div class="row">
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-			<h3><center>University of South Florida</center></h3>
+			<h3><center>Comptia A+></h3>
 			<div class="row 50% uniform">
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
-				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/graduated.png" alt="" /></span></div>
+				<div class="6u" style="text-align: center;"><span class="image fit"
+					<div data-iframe-width="150" data-iframe-height="270" data-share-badge-						id="2d898d05-b4ba-4f73-ac00-26e35fe13a5c" data-share-badge-							host="https://www.credly.com"></div><script type="text/javascript" async 					src="//cdn.credly.com/assets/utilities/embed.js"></script>></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-				<p><center><b>Master of Science in Cybersecurity </b><br> Concentration in Cyber Intelligence <br>Tampa, FL - Aug. 2018</center></p>
-	</div>
-	<div class="4u 12u$(medium)">
-			<h3><center>Polk State College</center></h3>
-			<div class="row 50% uniform">
-				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
-				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/graduated.png" alt="" /></span></div>
-				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
-			</div>
-			<p><center><b>Bachelor of Applied Science in Supervision and Management</b><br>Concentration in Business Administration <br>Winter Haven, FL - Dec. 2017</center></p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-			<h3><center>University of South Florida</center></h3>
-			<div class="row 50% uniform">
-				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
-				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/graduated.png" alt="" /></span></div>
-				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
-			</div>
-			<p><center><b>Bachelor of Applied Science in Information Technology</b><br>Tampa, FL - Aug. 2013</center></p>
-	</div>
 </div>
-
-
 
 <div class="4u$ 12u$(medium)">
 			<h3><center>EC-Council</center></h3>
