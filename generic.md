@@ -105,6 +105,8 @@ nav-menu: true
 	</div>
 </div>
 
+
+
 <div class="4u$ 12u$(medium)">
 			<h3><center>EC-Council</center></h3>
 			<div class="row 50% uniform">
@@ -112,22 +114,6 @@ nav-menu: true
 				<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/CEH.png" alt="" /></span></div>
 				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
 			</div>
-</div>
-	
-<div class="4u$ 12u$(medium)">
-			<h3><center>Comptia</center></h3>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2d898d05-b4ba-4f73-ac00-26e35fe13a5c"></div>
-  <script type="text/javascript">
-    (function() {
-      var s = document.createElement('script');
-      s.type = 'text/javascript';
-      s.async = true;
-      s.src = '//cdn.youracclaim.com/assets/utilities/embed.js';
-      var o = document.getElementsByTagName('script')[0];
-      o.parentNode.insertBefore(s, o);
-      })();
-  </script>
-			</div>
-</div>    
+</div>  
 
 <hr>
