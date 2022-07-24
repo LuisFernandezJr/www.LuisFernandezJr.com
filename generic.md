@@ -69,7 +69,7 @@ nav-menu: true
 
 
 
-<div class="6u" style="text-align: center;"><span class="image fit"><img src="assets/images/CEH.png" alt="" /></span></div>
+<div data-iframe-width="150" data-iframe-height="270" <img src="assets/images/CEH.png" alt="" /></div>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2d898d05-b4ba-4f73-ac00-26e35fe13a5c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
@@ -96,6 +96,14 @@ nav-menu: true
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="56ee6ed6-0b00-4cff-9f9a-2688277245b2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 	
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="54da3954-6bca-40ee-9598-4b04e1340f47" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+			
+<iframe
+  src="https://badges.images.credential.net/1537296202994.png"
+  width="150"
+  height="270"
+  frameborder="1"
+  allowfullscreen>
+</iframe>
 	
 <iframe
   src="https://www.credential.net/embed/d468ffcc-b8c5-4263-aba4-2fd046666d56"
@@ -105,13 +113,5 @@ nav-menu: true
   allowfullscreen>
 </iframe>
 	
-		
-<iframe
-  src="https://www.credential.net/embed/d468ffcc-b8c5-4263-aba4-2fd046666d56"
-  width="150"
-  height="270"
-  frameborder="1"
-  allowfullscreen>
-</iframe>
 
 <hr>
