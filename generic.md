@@ -71,20 +71,6 @@ nav-menu: true
 </iframe> <br></p>
   <p><b>Microsoft</b><br>Security, Compliance, and Identity Fundamentals, Security Operations Analyst Associate</p>
   <p><b>5 Year Service Award</b><br>Polk State College</p>
-  
-  <h1>Education</h1>
-  <hr>
-<div class="row">
-	<!-- Break -->
-	<div class="4u 12u$(medium)">
-			<h3><center>Comptia A+></h3>
-			<div class="row 50% uniform">
-				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
-				<div class="6u" style="text-align: center;"><span class="image fit"
-					<div data-iframe-width="150" data-iframe-height="270" data-share-badge-						id="2d898d05-b4ba-4f73-ac00-26e35fe13a5c" data-share-badge-							host="https://www.credly.com"></div><script type="text/javascript" async 					src="//cdn.credly.com/assets/utilities/embed.js"></script>></span></div>
-				<div class="3u" style="text-align: center;"><span class="image fit"></span></div>
-			</div>
-</div>
 
 <div class="4u$ 12u$(medium)">
 			<h3><center>EC-Council</center></h3>
