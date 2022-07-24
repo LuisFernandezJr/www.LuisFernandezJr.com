@@ -69,7 +69,7 @@ nav-menu: true
 
 
 
-<div img src="assets/images/CEH.png" alt="" width="150" height="270"> </div>
+
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2d898d05-b4ba-4f73-ac00-26e35fe13a5c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
@@ -112,6 +112,13 @@ nav-menu: true
   frameborder="1"
   allowfullscreen>
 </iframe>
-	
+
+<iframe
+  src="assets/images/CEH.png"
+  width="150"
+  height="270"
+  frameborder="1"
+  allowfullscreen>
+</iframe>
 
 <hr>
