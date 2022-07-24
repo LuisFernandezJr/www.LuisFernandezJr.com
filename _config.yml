@@ -1,15 +1,15 @@
 # site settings
-title: Luis Fernandez Jr. | Information Technology
-subtitle: Information Technology
+title: Luis Fernandez Jr. | Cybersecurity
+subtitle: Cybersecurity
 email: jrluisfernandez@gmail.com
 avatar: /assets/images/pic01.img
 description: I am interactive. It's my intent to find solutions, my perseverance comes from connecting consumers with today's technology. Technology Systems are complex and require understanding. Today's consumers are more connected than ever before, that's why I support and secure their experience. 
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address:
-city: Central
-state: FL
+street_address: 
+city: 
+state: 
 zip_code: 
 country: United States of America
 phone:
