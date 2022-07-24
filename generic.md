@@ -69,7 +69,7 @@ nav-menu: true
 
 
 
-<div data-iframe-width="150" data-iframe-height="270" <img src="assets/images/CEH.png" alt="" /></div>
+<div img src="assets/images/CEH.png" alt="" width="150" height="270"> </div>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2d898d05-b4ba-4f73-ac00-26e35fe13a5c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
@@ -101,15 +101,15 @@ nav-menu: true
   src="https://badges.images.credential.net/1537296202994.png"
   width="150"
   height="270"
-  frameborder="1"
+  frameborder="0"
   allowfullscreen>
 </iframe>
 	
 <iframe
   src="https://www.credential.net/embed/d468ffcc-b8c5-4263-aba4-2fd046666d56"
-  width="270"
-  height="147"
-  frameborder="0"
+  width="150"
+  height="270"
+  frameborder="1"
   allowfullscreen>
 </iframe>
 	
