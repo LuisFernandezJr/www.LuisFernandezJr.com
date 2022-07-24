@@ -90,7 +90,19 @@ nav-menu: true
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="25410f4c-4e51-41a7-b1a7-fa3ddc28e94b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f5d8928b-6469-4fc2-9c58-410e922cc60b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+	
+<div data-iframe-width="150" data-iframe-height="270"</div><script type="text/javascript" async src="https://www.credential.net/embed/d468ffcc-b8c5-4263-aba4-2fd046666d56"></script>
+	
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1024bc17-8df9-43a2-a0a8-aa7e8edf5c3d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bb5d6b66-e1db-4f7f-9424-1b2572800c3b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d120eadd-c751-4289-a141-c6e1d963943c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="56ee6ed6-0b00-4cff-9f9a-2688277245b2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+	
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="54da3954-6bca-40ee-9598-4b04e1340f47" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+	
 <iframe
   src="https://www.credential.net/embed/d468ffcc-b8c5-4263-aba4-2fd046666d56"
   width="270"
