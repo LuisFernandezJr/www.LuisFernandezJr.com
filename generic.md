@@ -61,8 +61,8 @@ nav-menu: true
   <p><b>Comptia</b><br>A+, Network+, Security +, CySA+</p>
   <p><b>EC-Council</b><br>Certified Ethical Hacker</p>
   <p><b>ISC²</b><br>CISSP</p>
-  <p><b>Security Blue Team</b><br>Blue Team Level 1 (BTL1) <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e8acb313-271c-4167-8b01-7129a6451613" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> <br></p>
-  <p><b>CertNexus</b><br>CyberSec First Responder<br></p>
+  <p><b>Security Blue Team</b><br>Blue Team Level 1 (BTL1) <div data-iframe-width="150" data-iframe-height="270" data-	share-badge-id="e8acb313-271c-4167-8b01-7129a6451613" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> <br></p>
+  <p><b>CertNexus</b><br>CyberSec First Responder  https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47774234 <br></p>
   <p><b>Microsoft</b><br>Security, Compliance, and Identity Fundamentals, Security Operations Analyst Associate</p>
   <p><b>5 Year Service Award</b><br>Polk State College</p>
   
