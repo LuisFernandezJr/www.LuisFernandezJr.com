@@ -61,7 +61,7 @@ nav-menu: true
   <p><b>Comptia</b><br>A+, Network+, Security +, CySA+</p>
   <p><b>EC-Council</b><br>Certified Ethical Hacker</p>
   <p><b>ISC²</b><br>CISSP</p>
-  <p><b>Security Blue Team</b><br>Blue Team Level 1 (BTL1)</script> <br></p>
+  <p><b>Security Blue Team</b><br>Blue Team Level 1 (BTL1)<br></p>
   <p><b>CertNexus</b><br>CyberSec First Responder<br></p>
   <p><b>Microsoft</b><br>Security, Compliance, and Identity Fundamentals, Security Operations Analyst Associate</p>
   <p><b>5 Year Service Award</b><br>Polk State College</p>
