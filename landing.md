@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Introduction</h2>
 		</header>
-		<p>Luis Fernandez Jr. is an information technologist. Luis grew up interacting with user interfaces and computer systems, and he began to show interest in the science of computers since his early childhood. Over the years of technological advancements, Luis became agile, proficient, and inspired by systems and their design. Today, Luis continues to work to provide support in the management of business operations, cybersecurity, and IT operations.</p>
+		<p>Luis Fernandez Jr. is a Cyber Threat Hunter. Luis grew up interacting with user interfaces and computer systems, and he began to show interest in the science of computers since his early childhood. Over the years of technological advancements, Luis became agile, proficient, and inspired by systems and their design. Today, Luis continues to work to provide support in the management of business operations, cybersecurity, and IT operations.</p>
 	</div>
 </section>
 
