@@ -28,7 +28,7 @@ pinterest_url:
 slack_url:
 twitter_url: 
 #curious aren't you? :)
-
+#your OSINT skills are increasing
 #plugins
 plugins:
   - jekyll-avatar
