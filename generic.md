@@ -104,6 +104,8 @@ nav-menu: true
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5e9b3137-3845-48c8-ab4a-f078c5a54242" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d9466cff-bdb4-4520-a4eb-b6d26fbcda83" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="59662b51-998a-4d77-aba6-8de9665462b7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 			
 <iframe
   src="https://badges.images.credential.net/1537296202994.png"
