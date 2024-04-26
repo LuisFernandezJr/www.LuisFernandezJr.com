@@ -25,6 +25,16 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
+						<td>Microsoft</td>
+						<td>Security Investigator II</td>
+						<td>2+</td>
+					</tr>					
+					<tr>
+						<td>Advent Health</td>
+						<td>Enterprise Security Analyst - SOC Team Lead</td>
+						<td>3</td>
+					</tr>
+					<tr>
 						<td>Polk State College</td>
 						<td>Data Analyst</td>
 						<td>4</td>
