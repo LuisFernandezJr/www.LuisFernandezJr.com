@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Introduction</h2>
 		</header>
-		<p>Luis Fernandez Jr. is a Cyber Threat Hunter. Luis grew up interacting with user interfaces and computer systems, and he began to show interest in the science of computers since his early childhood. Over the years of technological advancements, Luis became agile, proficient, and inspired by systems and their design. Today, Luis continues to work to provide support in the management of business operations, cybersecurity, and IT operations.</p>
+		<p>Luis Fernandez Jr. is a Threat Analyst II in Microsoft’s Security Research Organization. Luis holds a bachelors in Information Technology, Business Administration and a Master’s degree in Cybersecurity focused on Threat Intelligence from the University of South Florida, earned in 2013, 2017, and 2018, respectively. He was a lead SOC analyst in for one of the largest Healthcare organizations in the United States and also served as a Security Investigator II for Microsoft's M365 Cloud ecosystem, investigating Nation-State attributed attacks, ransomware and business e-mail compromise (BEC). Luis grew up interacting with user interfaces and computer systems, and he began to show interest in the science of computers since his early childhood. Over the years of technological advancements, Luis became agile, proficient, and inspired by systems and their design. Today, Luis continues to work to provide global security defense and support as a security professional.</p>
 	</div>
 </section>
 
@@ -68,7 +68,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Lifelong Learning</h3>
 				</header>
-				<p><p>Ethical Hacking experience is my next goal. I am prepped with knowledge and working in virtual labs for hands-on experience. Building on the skills to find vulnerabilities or White Hat Hackers interests me. I admire those capable of finding vulnerabilities in software and hardware. I always enjoy new technology and I know that finding these security holes can benefit others. I currently hold a CompTIA A+ and practice towards the Security+ and CISSP certifications.</p>
+				<p>
 
 <p>Creating software, providing solutions, and teaching others of the intricacies of a system is my intent. By studying Cybersecurity, I educate others in fundamentals in computing and secure practices. I am aware of the importance in confidentiality, authentication, and integrity. Maintaining user roles and permissions is important for auditing purposes and I continue to enjoy this line of work. In my spare time when playing mind challenging games, I can explore more and find areas of improvement. I'd enjoy protecting and securing technical services on a global aspect in order to protect users from malicious activities or exploits. Maintaining services, development, and access control is important in today's world.  The potential of AI or extensive networking tools to maintain network security and Quality of Service is important going forward. Artificial Intelligence is a strong tool that can be used with or even against Cybersecurity. </p>
 
